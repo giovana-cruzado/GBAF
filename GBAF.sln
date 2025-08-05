@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBAF.API", "GBAF.API\GBAF.API.csproj", "{F3CFCD3D-AE20-8B1B-D42A-EFAED3B54D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CFCD3D-AE20-8B1B-D42A-EFAED3B54D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CFCD3D-AE20-8B1B-D42A-EFAED3B54D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CFCD3D-AE20-8B1B-D42A-EFAED3B54D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CFCD3D-AE20-8B1B-D42A-EFAED3B54D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB530CEB-10DB-448C-A37E-6875460855BE}
+	EndGlobalSection
+EndGlobal

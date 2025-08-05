@@ -1,0 +1,12 @@
+git config --global user.name giovana-cruzado
+git config --global user.email giovanarusbe@gmail.com
+
+git config --global user.name felipe-botura
+git config --global user.email felipebotura7@gmail.com
+
+Criando um projeto Web API com .net 9
+
+dotnet new webapi -o GBAF.API --use-controllers
+
+
+
