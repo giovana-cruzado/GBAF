@@ -5,8 +5,16 @@ git config --global user.name felipe-botura
 git config --global user.email felipebotura7@gmail.com
 
 Criando um projeto Web API com .net 9
-
 dotnet new webapi -o GBAF.API --use-controllers
 
+cd GBAF.API
+dotnet add package Swashbuckle.AspNetCore --version 9.0.3
 
-
+-- Instalação de pacotes
+dotnet add package Microsoft.EntityFrameworkCore --version 9.0.8
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 9.0.8
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.0.8
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 9.0.8
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.8
+dotnet add package System.IdentityModel.Tokens.Jwt --version 8.13.1
+dotnet add package MySql.EntityFrameworkCore --version 9.0.6
